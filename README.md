@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://visitor-badge.laobi.icu/badge?page_id=pafuentess.pafuentess)
 
 ## ✉️ Find me on:
 <p align="center">
