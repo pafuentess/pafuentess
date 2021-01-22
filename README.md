@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://visitor-badge.laobi.icu/badge?page_id=pafuentess.pafuentess)
+[![Github](https://img.shields.io/github/followers/pafuentess?label=Follow&style=social)](https://github.com/pafuentess)![](https://visitor-badge.laobi.icu/badge?page_id=pafuentess.pafuentess)
 
 ## ✉️ Find me on:
 <p align="center">
