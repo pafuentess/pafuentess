@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm pafuentess but you can callme Paulis :smile:
 [![Github](https://img.shields.io/github/followers/pafuentess?label=Follow&style=social)](https://github.com/pafuentess)![](https://visitor-badge.laobi.icu/badge?page_id=pafuentess.pafuentess)
-:mortar_board: I'am a software developér, and I'm doing the specialization in machine learning at Holberton School.
+#### :mortar_board: I'am a software developér, and I'm doing the specialization in machine learning at Holberton School.
 
 ### ✉️ Find me on:
 <p align="center">
