@@ -24,6 +24,7 @@
 <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+### :chart_with_upwards_trend: GitHub Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pafuentess)](https://github.com/pafuentess/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pafuentess)](https://github.com/pafuentess/github-readme-stats)
 
