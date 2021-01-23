@@ -7,7 +7,7 @@
 * :goal_net: I like to play water polo and ride a mountain bike
 
 
-### ✉️ Find me on:
+## ✉️ Find me on:
 <p align="center">
  <a href="https://twitter.com/pafuentess"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="linkedin.com/in/pafuentess" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
@@ -16,7 +16,7 @@
 
 <br />
 
-### 🧰 Languages and Tools:
+## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
@@ -30,7 +30,7 @@
 <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-### :chart_with_upwards_trend: GitHub Stats
+## :chart_with_upwards_trend: GitHub Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pafuentess)](https://github.com/pafuentess/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pafuentess)](https://github.com/pafuentess/github-readme-stats)
 
