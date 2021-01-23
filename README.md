@@ -2,6 +2,9 @@
 [![Github](https://img.shields.io/github/followers/pafuentess?label=Follow&style=social)](https://github.com/pafuentess)![](https://visitor-badge.laobi.icu/badge?page_id=pafuentess.pafuentess)
 #### :mortar_board: Fullstack software developer, and Machine Learning student at Holberton School.
 * :stethoscope: I am currently developing an app to analyze medical images
+* :computer: I like to help others in their projects and share my knowledge
+* :calling: Askme about anything
+* :goal_net: I like to play water polo and ride a mountain bike
 
 
 ### ✉️ Find me on:
