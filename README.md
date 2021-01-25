@@ -28,6 +28,7 @@
 <img src="https://www.clipartmax.com/png/middle/301-3018326_que-una-distribuci%C3%B3n-gnu-linux-es-la-forma-m%C3%A1s-c%C3%B3moda-linux-icon.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://image.flaticon.com/icons/png/512/1216/1216733.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ## :chart_with_upwards_trend: GitHub Stats
