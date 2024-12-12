@@ -1,4 +1,4 @@
-## Hi there 👋 I'm pafuentess but you can callme Paulis :smile:
+## Hi there 👋 I'm pafuentess:
 [![Github](https://img.shields.io/github/followers/pafuentess?label=Follow&style=social)](https://github.com/pafuentess)![](https://visitor-badge.laobi.icu/badge?page_id=pafuentess.pafuentess)
 #### :mortar_board: Fullstack software developer, and Machine Learning engineer.
 * :stethoscope: I am currently developing an app to analyze medical images
